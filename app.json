@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Mines",
+    "slug": "mines",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#363636"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sejao.mines"
+    }
+  }
+}
