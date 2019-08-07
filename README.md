@@ -18,5 +18,5 @@ $ npm install
 ```
 $ npm start
 ```
-- After executing the above command, a QR code will appear, just open the Expo app and scan it and the application will run on your device.
+- After executing the command above, a QR code will appear, just open the Expo app and scan it and the application will run on your device.
 
